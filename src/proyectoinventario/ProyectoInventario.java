@@ -28,6 +28,20 @@ public class ProyectoInventario {
         System.out.println("Hola Mundo");
         System.out.println("Hola Mundo");
         System.out.println("Hola Mundo");
+        	System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo");
     }
     
 }
